@@ -96,3 +96,4 @@ The security groups are pre-configured to allow:
 * **HTTPS (443):** For secure, encrypted traffic.
 
 ---
+![Project Screenshot](Screenshot%202026-01-21%20145623.png)
