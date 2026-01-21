@@ -96,7 +96,3 @@ The security groups are pre-configured to allow:
 * **HTTPS (443):** For secure, encrypted traffic.
 
 ---
-
-
-**Developed by Bahi** *Automating the cloud, one module at a time.*
-![Infrastructure Screenshot](https://raw.githubusercontent.com/bahi1023/terraform-aws-project/main/Screenshot%202026-01-20%20104119.png)
